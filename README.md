@@ -1,5 +1,5 @@
 # MP3
-Package for Catalex Serial MP3 module developed by Jack Ho (howljack@gmail.com)
+Package for Catalex Serial MP3 module developed by Jack Ho (howljack@gmail.com) and Kitty Ip
 
 ## Basic usage
 Use the block to play a mp3 file in the folder 01/ in the microSD card.
